@@ -1,6 +1,7 @@
 ## Google Sheets Based Ads Script for Bulk Ad Creation 
 
 Originally published at: **(TR)** [Blog Post](https://zeo.org/tr/blog/google-ads-script-toplu-reklam-olusturucu/)
+
 Original repo: [https://github.com/zeoagency/bulk-ads-create](https://github.com/zeoagency/bulk-ads-create)
 
 ---- 
